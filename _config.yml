@@ -1,7 +1,8 @@
-# title: Your Site Title
-# description: The description of your site.
+title: My Blog
+description: Don't Get Too Close
 # email: your-email@address.com
-
+url: "http://dontgetooclose.github.io"
+github_repo: "https://github.com/dontgetooclose/dontgetooclose.github.io.git"
 # author: Your name #  Default is your site title.
 
 # # Your social accounts.
@@ -16,7 +17,7 @@
 # # Theme Settings
 theme: jekyll-theme-persephone
 # # Your site's logo. Will be shown on the left top of your page.
-# logo: /img/logo.svg
+logo: /screenshots/blog-logo.jpg
 # # If the images of our blog are stored in an external cloud. You can use the jekyll-img-prefix plugin and set your images' base URL here.
 # img_prefix: https://your-img-cdn.com
 # # The RSS link of your blog.
