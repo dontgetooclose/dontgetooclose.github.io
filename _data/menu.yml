@@ -6,17 +6,14 @@ entries:
     entries:
       - title: runa.rayna@gmail.com
       - title: about me
-        url: /about.html
+        url: /post/about.html
       - title: github repo
         url: https://github.com/dontgetooclose/dontgetooclose.github.io.git/
       
 
   - title: 读万卷书
     post_list: true
-      limit: 
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
+      
 
   - #title: posts by category
     #post_list:
