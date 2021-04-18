@@ -6,7 +6,7 @@ entries:
     entries:
       - title: runa.rayna@gmail.com
       - title: about me
-        url: /post/about.html
+        url: about.html
       - title: github repo
         url: https://github.com/dontgetooclose/dontgetooclose.github.io.git/
       
