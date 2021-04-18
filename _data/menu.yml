@@ -8,8 +8,8 @@ entries:
       - title: about me
         url: /about.html
       - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "catalog by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+        url: https://github.com/dontgetooclose/dontgetooclose.github.io.git/
+      
 
   - title: 读万卷书
     post_list: true
