@@ -3,6 +3,7 @@ author: Rayna # name of site's author
 email: riccardo.graziosi97@gmail.com # email of site's author
 url: https://dontgetooclose.github.io/ # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+github_repo: "https://github.com/dontgetooclose/dontgetooclose.github.io.git/"
 description: > "想写个很酷的介绍，但想不到" # description of the site (multiple lines allowed)
   A (nearly) no-CSS, fast, minimalist Jekyll theme.
 
