@@ -17,6 +17,7 @@ favicon: "logo.png" # name+extension of favicon (which must be put on the root f
 # Build settings
 remote_theme: riggraz/no-style-please
 
+
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
   back_home_text: ".." # customize text for homepage link in post layout
