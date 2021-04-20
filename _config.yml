@@ -2,42 +2,42 @@
 permalink:        /post/:title.html
 
 # Setup
-url:              https://mayanbin.com
+url:              https://dontgetooclose.github.io/
 img_url:          https://cdn.jsdelivr.net/gh/infp/infp.github.io/images
 
 # Set to '' in case of hosting on `https://<your-github-name>.github.io`
 baseurl:          ''
 
-title:            饮冰先生的博客
+title:            Hello World!
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:      >
-  关于[代码](/code/)、[生活](/life/)、[宇宙](/)和[一切](/)。
+  想写句很牛皮的介绍，但偏偏想不到。
 
 notification:     |
 
 
 # Google Analytics tracking ID
 # TODO: 如果使用本主题，请务必替换此处的 Google 统计代码，否则你的站点将无法获得统计数据
-analytics:        'UA-32028925-2'
+analytics:        ''
 
 # Fallback image and color if not overwritten for tag or post
 image:            /public/images/flower.jpg
 color:            '#dc322f'
 
 author:
-  name:           饮冰先生
-  email:          237572656@qq.com
+  name:           zero
+  #email:          237572656@qq.com
   photo:          /public/images/cat.jpg
-  github:         myanbin
-  linkedin:       myanbin
-  facebook:       myanbin
-  steam:          myanbin
+  #github:         myanbin
+ # linkedin:       myanbin
+ # facebook:       myanbin
+  # steam:          myanbin
 
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:          |
-    我是饮冰先生，热爱电脑技术和黑客文化，喜欢与人交流分享开源思想和 IT 技术。如果你觉得本文不错，可略表心意，[请我喝一杯咖啡](https://myanbin.github.io/about.html#buymeacoffee)。
+    下雨也不怕
 
 
 compress_html:
