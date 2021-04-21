@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "TO DO List"
-permalink: links.html
+permalink: to-do-list.html
 sequence: 5
 ---
 
