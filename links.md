@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "友链"
+title: "TO DO List"
 permalink: links.html
 sequence: 5
 ---
@@ -49,30 +49,4 @@ sequence: 5
   }
 </style>
 
-此页用于保存所有朋友的友链，我会不定期进行访问，并按照相关规则，选出最有价值友链（Most Vualable Link）若干，并在此公示。
-
-## 最有价值友链
-
-<section class="most-valuable-link">
-  <a class="mvl-link" href="/">
-    <img src="/public/images/me.jpg">
-    <h4>虚位以待</h4>
-    <div>这个家伙很懒，什么东西都没有留下。</div>
-  </a>
-  <a class="mvl-link" href="/">
-    <img src="/public/images/me.jpg">
-    <h4>虚位以待</h4>
-    <div>这个家伙很懒，什么东西都没有留下。</div>
-  </a>
-  <a class="mvl-link" href="/">
-    <img src="/public/images/cat.jpg">
-    <h4>虚位以待</h4>
-    <div>这个家伙很懒，什么东西都没有留下。</div>
-  </a>
-</section>
-
-## 其他友链
-
-* [嗨森の猫窝](https://hexenq.com/)
-* [晚晴幽草轩](https://www.jeffjade.com/)
-* [WardChan 的小站](https://blog.wardchan.com/)
+呕吼，人生过咗1/3。
