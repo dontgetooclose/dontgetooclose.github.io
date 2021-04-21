@@ -14,11 +14,13 @@
 life:
   name: 生活
   color: '#f44336'
+  image: /public/images/succulent.jpg
   description: |
     ‘体验’于我的含义——不断去开拓，去尝试，做丰满健全的人。
 
 thoughts:
   name: 思考
+  image: /public/images/buckow.jpg
   description: >
     梳理自己头绪，没有一次熬夜是无辜的。
 
