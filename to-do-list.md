@@ -2,6 +2,7 @@
 layout: page
 title: "TO DO List"
 permalink: to-do-list.html
+image: /public/images/mountains.jpg
 sequence: 5
 ---
 
